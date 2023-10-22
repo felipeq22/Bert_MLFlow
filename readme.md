@@ -1,3 +1,1 @@
-# Hi
-
-# Hello
+# Executing a Transformer Model using Bert to dectect sentiments of texts
